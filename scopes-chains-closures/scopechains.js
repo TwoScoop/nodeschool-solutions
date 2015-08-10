@@ -1,6 +1,6 @@
-function foo () {
+function foo() {
 	function zip() {
 		var quux; 	
-	};
-	var bar; 
-}
+	}
+	var bar;    
+} 
